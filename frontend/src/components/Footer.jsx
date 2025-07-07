@@ -8,11 +8,7 @@ const Footer = () => {
         <div>
           <img src={assets.logo} className="mb-5 w-32 " alt="" />
           <p className="w-full md:w-2/3 text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo quasi
-            eaque inventore ipsam consectetur sit at magni consequuntur.
-            Perferendis aut vero possimus at quisquam magni neque doloribus
-            expedita dolorum ex.
-          </p>
+          We’re committed to offering thoughtfully crafted products that blend quality and design. Thank you for being a part of our journey.    </p>
         </div>
 
         <div>
