@@ -8,7 +8,8 @@ const Footer = () => {
         <div>
           <img src={assets.logo} className="mb-5 w-32 " alt="" />
           <p className="w-full md:w-2/3 text-gray-600">
-          We’re committed to offering thoughtfully crafted products that blend quality and design. Thank you for being a part of our journey.   
+            We’re committed to offering thoughtfully crafted products that blend quality and design. Thank you for being a part of our journey.
+
           </p>
         </div>
 
